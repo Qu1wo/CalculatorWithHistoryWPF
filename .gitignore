@@ -1,0 +1,9 @@
+# Visual Studio temporary files
+.vs/
+*.vsix
+
+# Other common ignores
+bin/
+obj/
+*.user
+*.suo
